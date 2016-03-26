@@ -1,6 +1,6 @@
 {
   "name": "level-z",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Z-order curve index for level-db",
   "main": "index.js",
   "dependencies": {
