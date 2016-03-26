@@ -1,0 +1,38 @@
+{
+  "name": "level-z",
+  "version": "1.0.0",
+  "description": "Z-order curve index for level-db",
+  "main": "index.js",
+  "dependencies": {
+    "interleave26": "^1.0.0",
+    "level-sublevel": "^6.5.4"
+  },
+  "devDependencies": {
+    "levelup": "^1.3.1",
+    "memdown": "^1.1.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayes/node-level-z.git"
+  },
+  "keywords": [
+    "level",
+    "leveldb",
+    "z",
+    "order",
+    "z-order",
+    "curve",
+    "index",
+    "geo",
+    "hilbert"
+  ],
+  "author": "Michael Hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayes/node-level-z/issues"
+  },
+  "homepage": "https://github.com/hayes/node-level-z#readme"
+}
